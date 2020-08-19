@@ -15,4 +15,5 @@ dependencies {
     implementation("org.apache.commons:commons-lang3:3.11")
     implementation("com.google.guava:guava:29.0-jre")
     implementation("junit:junit:4.13")
+    implementation("com.google.inject:guice:4.2.3")
 }
