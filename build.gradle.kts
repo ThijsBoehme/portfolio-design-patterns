@@ -16,4 +16,5 @@ dependencies {
     implementation("com.google.guava:guava:29.0-jre")
     implementation("junit:junit:4.13")
     implementation("com.google.inject:guice:4.2.3")
+    implementation("io.reactivex.rxjava3:rxkotlin:3.0.0")
 }
