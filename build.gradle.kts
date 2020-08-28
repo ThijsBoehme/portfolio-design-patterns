@@ -17,4 +17,6 @@ dependencies {
     implementation("junit:junit:4.13")
     implementation("com.google.inject:guice:4.2.3")
     implementation("io.reactivex.rxjava3:rxkotlin:3.0.0")
+    implementation("org.springframework.statemachine:spring-statemachine-core:2.2.0.RELEASE")
+    implementation("org.springframework:spring-context:5.2.8.RELEASE")
 }
